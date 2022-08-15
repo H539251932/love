@@ -6,7 +6,7 @@ window.onload=function(){
 	buhao.onclick=function(){
 		Dianji++;
 		if(Dianji==1){
-	   			alert("小姐姐在考虑一下呗");
+	   			alert("鱼鱼在考虑一下呗");
 	   }else if(Dianji==2){
 		   		alert("你是我见过的最善良可爱的女孩纸");
 		   		
@@ -14,20 +14,20 @@ window.onload=function(){
 		   		alert("一生一世爱你");
 		   		
 	   }else if(Dianji==4){
-		   		alert("家务我全干");
+		   		alert("陪你一起看星星");
 		   		
 	  }else if(Dianji==5){
-		   		alert("不藏私房钱");
+		   		alert("陪你一起看花海");
 	  }else if(Dianji==6){
-		   		alert("房子写你名");
+		   		alert("我都这样说了");
 	  }else if(Dianji==7){
-		   		alert("工资全上交");
+		   		alert("是不是不给面子啊");
 		  		Dianji=1;
 	  }
 
 	}
 	hao.onclick=function(){
-		alert("小姐姐终于同意了，我爱你，嘻嘻嘻");
+		alert("鱼鱼终于同意了，我爱你，嘻嘻嘻");
 	}
 	
 
