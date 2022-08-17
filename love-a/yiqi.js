@@ -6,7 +6,7 @@ window.onload=function(){
 	buhao.onclick=function(){
 		Dianji++;
 		if(Dianji==1){
-	   			alert("鱼鱼在考虑一下呗");
+	   			alert("再考虑一下呗");
 	   }else if(Dianji==2){
 		   		alert("你是我见过的最善良可爱的女孩纸");
 		   		
@@ -27,7 +27,7 @@ window.onload=function(){
 
 	}
 	hao.onclick=function(){
-		alert("鱼鱼终于同意了，我爱你，嘻嘻嘻");
+		alert("终于同意了，我爱你，嘻嘻嘻");
 	}
 	
 
